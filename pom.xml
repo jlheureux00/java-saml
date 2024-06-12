@@ -22,9 +22,6 @@
 	<modules>
 		<module>core</module>
 		<module>toolkit</module>
-		<module>samples</module>
-
-		<module>servlet-javax</module>
 		<module>servlet-jakarta</module>
 	</modules>
 
